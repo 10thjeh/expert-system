@@ -25,7 +25,7 @@ export default function DetailTable() {
       <Table sx={{ maxWidth: 650 }} size="small" aria-label="a dense table">
         <TableHead>
           <TableRow>
-            <TableCell>Kata</TableCell>
+            <TableCell>Deskripsi</TableCell>
             <TableCell align="right">Nilai</TableCell>
           </TableRow>
         </TableHead>
